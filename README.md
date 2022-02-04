@@ -1,5 +1,5 @@
 - 👋 **Oii! eu sou a Ingrid Bitencurtt**
-- 🌱 Estudando Java ...
+- 🌱 Estudando  Java OO...
 - 😄 Pronome ela/dela
 
 
