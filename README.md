@@ -1,6 +1,6 @@
-- 👋 **Oii! eu sou a Ingrid Bitencurtt**
-- 🌱 Me aprimorando em Java...
-- 😄 Pronome ela/dela
+- 👋 **Olá! eu sou a Ingrid Bitencurtt**
+- 💻 Back-end Developer Jr
+- 🌱 Atualmente estudo java!
 
 
 
