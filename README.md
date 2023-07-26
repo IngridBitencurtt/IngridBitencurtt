@@ -1,6 +1,6 @@
 - 👋 **Olá! eu sou a Ingrid Bitencurtt**
 - 💻 Back-end Developer Jr
-- 🌱 Dev Java!
+
 
 
 
