@@ -9,7 +9,7 @@
   
   <img align="center" alt="INGRID-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   
-  <img align="center" alt="INGRID-SPRING" height="40" width="40"
+  <img align="center" alt="INGRID-spring" width="26px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
 
   <img align="center" alt="INGRID-Docker" width="26px" src="https://user-images.githubusercontent.com/58996814/210672663-273bf564-be62-46ac-a15b-e04b7abb40e1.png" />
