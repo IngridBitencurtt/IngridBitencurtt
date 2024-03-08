@@ -1,6 +1,6 @@
 
 👋 **Olá, eu sou a Ingrid Bitencurtt!**
-Graduada em Análise e Desenvolvimento de Sistemas pela Fatec de Taubaté, sou uma desenvolvedora back-end Jr apaixonada por criar soluções eficientes e escaláveis.
+- Sou uma desenvolvedora back-end apaixonada por criar soluções eficientes e escaláveis.
 
 ## 
 
@@ -30,7 +30,7 @@ Graduada em Análise e Desenvolvimento de Sistemas pela Fatec de Taubaté, sou u
   
 
 ##  
-📫 *Como me encontrar*
+📫 **Como me encontrar**
 
 <div><a href = "mailto:ingrid.bitencurtt98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ingrid-bitencurtt-a2b37a1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
