@@ -8,7 +8,6 @@
 <div style="display: inline_block"><br>
   
   <img align="center" alt="INGRID-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  
   <img align="center" alt="INGRID-spring" width="26px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
 
