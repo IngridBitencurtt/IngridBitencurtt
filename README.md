@@ -8,7 +8,9 @@
 <div style="display: inline_block"><br>
   
   <img align="center" alt="INGRID-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+  
+  <img align="center" alt="INGRID-SPRING" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
 
   <img align="center" alt="INGRID-Docker" width="26px" src="https://user-images.githubusercontent.com/58996814/210672663-273bf564-be62-46ac-a15b-e04b7abb40e1.png" />
   <img align="center" alt="INGRID-Mongodb" width="26px" src="https://user-images.githubusercontent.com/58996814/210673096-ceb725a4-d73e-44a5-a8aa-bb085c5f4415.png" />
