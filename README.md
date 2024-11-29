@@ -6,8 +6,8 @@
 
 🌱 **Sobre mim**
 - 🎓 Graduada em Análise e Desenvolvimento de Sistemas pela Fatec de Taubaté
-- 💻 Atualmente, estou aprimorando minhas habilidades em desenvolvimento back-end ☕ 
-- 🚀 Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades de programação.
+- 🎓 Cursando Pós graduação em Engenharia de Software
+- 🚀 Estou sempre buscando aprimento em minhas habilidades em desenvolvimento back-end ☕ 
 
 ## 
 
