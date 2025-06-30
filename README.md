@@ -6,7 +6,7 @@
 
 🌱 **Sobre mim**
 - 🎓 Graduada em Análise e Desenvolvimento de Sistemas pela Fatec de Taubaté
-- 🎓 Cursando Pós graduação em Engenharia de Software
+- 🎓 Pós graduada em Engenharia de Software
 - 🚀 Estou sempre buscando aprimento em minhas habilidades em desenvolvimento back-end ☕ 
 
 ## 
@@ -32,6 +32,6 @@
 ##  
 📫 **Como me encontrar**
 
-<div><a href = "mailto:ingrid.bitencurtt98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div><a href = "mailto:ingrid.bitencurtf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ingrid-bitencurtt-a2b37a1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.twitch.tv/yngritte" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
